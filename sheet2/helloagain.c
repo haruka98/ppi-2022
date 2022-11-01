@@ -4,7 +4,7 @@
 int main(void)
 {
 	// prints text to the terminal
-    printf("Hello World\n");
+	printf("Hello World\n");
 	printf("Group 00\n");
-    return 0;
+	return 0;
 }
